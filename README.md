@@ -1,4 +1,9 @@
-<h1 align="center">Mohammad Mahabubul Hoque Porosh</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theporosh/theporosh/refs/heads/main/Porosh_banner.svg" alt="Porosh Banner" />
+</p>
+
+
+<h1 align="center">Hi 👋, I'm Mohammad Mahabubul Hoque Porosh</h1>
 <h3 align="center">Frontend Developer | React | JavaScript | MERN Stack</h3>
 
 <p align="center">
