@@ -7,10 +7,12 @@
 <h3 align="center">Frontend Developer | React | JavaScript | MERN Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;Clean+Code+Enthusiast;Building+Modern+Web+Interfaces;From+Bangladesh" />
+  <!-- Main text in dark slate -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=700&color=1f2937&width=800&center=true&vCenter=true&lines=Frontend+Developer;MERN+Stack+Developer;Clean+Code+Advocate" alt="Professional Animated Banner Main"/>
+  <br>
+  <!-- Accent line in subtle emerald -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=700&color=10b981&width=800&center=true&vCenter=true&lines=Building+Modern+Web+Interfaces;Bangladesh" alt="Professional Animated Banner Accent"/>
 </p>
-
----
 
 ## 👨‍💻 About Me  
 I’m a dedicated **Frontend Developer** focused on creating clean, functional, and user-centered digital experiences.
