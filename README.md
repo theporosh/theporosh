@@ -27,14 +27,17 @@ I’m a dedicated **Frontend Developer** focused on creating clean, functional, 
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/theporosh" target="_blank">
+  <a href="https://www.linkedin.com/in/mahabubul-hoque-porosh-09070bb5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://facebook.com/theporosh" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/theporosh" target="_blank">
+  <a href="https://www.instagram.com/mahabubulhoqueporosh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/Mtheporosh" target="_blank">
+  <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
 
