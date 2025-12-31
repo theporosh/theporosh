@@ -78,7 +78,15 @@ To simplify caregiving by providing a safe, user-friendly, and accessible platfo
 </p>
 
 ---
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
 ## 📊 GitHub Analytics  
 <p align="center">
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=theporosh&show_icons=true&hide_border=true&theme=transparent" />
