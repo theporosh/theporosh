@@ -24,6 +24,26 @@ I’m a dedicated **Frontend Developer** focused on creating clean, functional, 
 - 📩 Email: **theporosh@gmail.com**
 
 ---
+## 🚀 Current Activities
+
+- 🌱 Exploring **Next.js** to build scalable and performance-optimized web applications
+- 🏗️ Working on a **Care.IO**, focusing on user experience, responsive design, and modern frontend practices
+  
+## 🧑‍⚕️ Care.IO — Care Service Booking Platform
+
+**Care.IO** is a web application built with **Next.js** that helps users book reliable and trusted caregiving services for children, elderly, or sick individuals.
+
+Users can easily schedule care services based on their **required time duration** and **location**, ensuring flexibility and convenience. The core goal of Care.IO is to make caregiving **simple, secure, and accessible** for everyone.
+
+### 🔧 Technologies
+- Next.js
+- React
+- Modern UI & responsive design
+- Secure booking workflow
+
+### 🎯 Project Goal
+To simplify caregiving by providing a safe, user-friendly, and accessible platform for booking trusted care services.
+
 
 ## 📫 Connect With Me  
 <p align="left">
