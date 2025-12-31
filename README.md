@@ -97,7 +97,7 @@ To simplify caregiving by providing a safe, user-friendly, and accessible platfo
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theporosh&theme=flat&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theporosh&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
